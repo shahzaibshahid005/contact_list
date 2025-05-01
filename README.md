@@ -1,18 +1,48 @@
 # 📱 Flutter Contact List with Hero Animation
 
-This Flutter application demonstrates a **dynamic list of contacts** where each contact has a local **asset-based image**, and a smooth **Hero animation** transitions the image from the home screen to a detailed profile screen.
+This Flutter application showcases a dynamic list of contacts using **local asset images**. Each contact can be tapped to trigger a **Hero animation**, transitioning the profile picture from a **circular thumbnail** on the home screen to a **rounded square** on the detail screen — where the user's phone number and email are displayed.
+
+---
+
+## 🧰 Built With
+
+- 🐦 Flutter SDK
+- 💙 Dart
+- 📦 Material Design Components
+- 📸 Hero Animation
+- 🖼️ Asset-based image loading
 
 ---
 
 ## 🚀 Features
 
-- ✅ Dynamic contact list (8 sample contacts)
-- 🖼️ Asset-based profile images
-- 🎯 Hero animation with shape transformation (circle ➝ rounded square)
-- 📞 Detail page with contact phone number and email
-- 🔁 Tap image on detail page to return back with animation
-- 🐌 Slowed animation using `timeDilation` for smoother effect during testing
+- Dynamic list of 8 sample contacts
+- Asset-based local profile pictures
+- Tap-to-navigate with smooth Hero animation
+- Shape transformation (circle ➝ rounded rectangle)
+- Contact detail screen with phone and email
+- Reverse animation on back navigation
+- Animation speed slowed down using `timeDilation` for better visualization
 
 ---
 
-## 📁 Folder Structure
+## 📂 Project Structure
+
+📚 Key Concepts Demonstrated
+ListView.builder for dynamic rendering
+
+Hero widget for shared element transition
+
+ClipOval and ClipRRect for shape manipulation
+
+GestureDetector for tap events
+
+Navigator for page routing
+
+📄 License
+This project is licensed under the MIT License.
+
+🙋‍♂️ Author
+Made with ❤️ by Muhammad Shahzaib
+shahzaibshahid005
+
