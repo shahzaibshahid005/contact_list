@@ -4,17 +4,17 @@ This Flutter application showcases a dynamic list of contacts using **local asse
 
 ---
 
-## 🧰 Built With
+##  Built With
 
-- 🐦 Flutter SDK
-- 💙 Dart
-- 📦 Material Design Components
-- 📸 Hero Animation
-- 🖼️ Asset-based image loading
+-  Flutter SDK
+-  Dart
+-  Material Design Components
+-  Hero Animation
+-  Asset-based image loading
 
 ---
 
-## 🚀 Features
+## Features
 
 - Dynamic list of 8 sample contacts
 - Asset-based local profile pictures
@@ -26,9 +26,9 @@ This Flutter application showcases a dynamic list of contacts using **local asse
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
-📚 Key Concepts Demonstrated
+Key Concepts Demonstrated
 ListView.builder for dynamic rendering
 
 Hero widget for shared element transition
@@ -39,10 +39,9 @@ GestureDetector for tap events
 
 Navigator for page routing
 
-📄 License
-This project is licensed under the MIT License.
 
 🙋‍♂️ Author
-Made with ❤️ by Muhammad Shahzaib
-shahzaibshahid005
+Made  by Muhammad Shahzaib
+
+Github : shahzaibshahid005
 
